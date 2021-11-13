@@ -15,6 +15,9 @@
 <center>
     <div class="w3-container w3-center w3-animate-top">
 <h1 style="color:white;">Hello!</h1>
+<?php
+alert("Oh thanks for coming stranger!")
+?>
 
 </center>
 /*sup/*
